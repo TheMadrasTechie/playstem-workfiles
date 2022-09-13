@@ -1,4 +1,4 @@
-# ---------- kivytut2.py  ----------
+# Developed By Sundar Balamurugan
 
 import kivy
 kivy.require('1.9.0')
